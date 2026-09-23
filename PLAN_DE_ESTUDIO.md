@@ -7,8 +7,7 @@
 1. **Aula invertida (15 min):** video de la docente y una frase con la idea central.
 2. **Comprensión visual (45 min):** dibujar estados, tabla o árbol y ejecutar un ejemplo pequeño a mano.
 3. **Implementación (75 min):** escribir el archivo correspondiente en SpeedCoder y ejecutarlo en Python.
-4. **Complejidad y recuperación (30 min):** justificar tiempo, espacio y casos de uso.
-5. **Bitácora (15 min):** registrar errores de sintaxis, lógica y casos límite.
+4. **Complejidad y recuperación (45 min):** justificar tiempo, espacio, casos de uso y resolver dudas puntuales.
 
 # Herramientas
 
